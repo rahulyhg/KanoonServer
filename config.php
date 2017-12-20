@@ -6,7 +6,7 @@
  * Time: 05:37 PM
  */
 
-class config
-{
-
-}
+define('HOST','mysql.hostinger.in');
+define('USER','u480707125_kanon');
+define('PASS','*/9004137765');
+define('DB','u480707125_kanon');
