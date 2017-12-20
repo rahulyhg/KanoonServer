@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f5d0147b-c73f-4855-92c5-7ebd80771948" name="Hostinger" url="http://ftp.rvsoft.esy.es">
+        <fileTransfer host="ftp.rvsoft.esy.es" port="21" rootFolder="/public_html/Android">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
