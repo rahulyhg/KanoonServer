@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Hostinger">
+  <component name="PublishConfigData" serverName="Hostinger" uploadOnCheckin="f5d0147b-c73f-4855-92c5-7ebd80771948">
     <serverData>
       <paths name="Hostinger">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/kanoon" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="Hostinger" />
   </component>
 </project>
